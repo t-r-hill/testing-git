@@ -11,4 +11,4 @@ This is for practicing and learning git
 - These are bullet points
 - These are bullet points
 
-** This is markdown **
+**This is markdown**
