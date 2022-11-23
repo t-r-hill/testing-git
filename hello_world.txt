@@ -1,1 +1,5 @@
-This is for practicing creating a new file using Github in the browser
+The first line has now been changed to show how changes are tracked
+
+And some extra lines have been added
+
+Like this
